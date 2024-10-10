@@ -9,7 +9,7 @@
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://space.bilibili.com/496001931"
   },
   {
     "name": "QQ",
@@ -21,7 +21,7 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "url": "mailto:649416392@qq.com"
   },
   {
     "name": "Twitter",
@@ -30,9 +30,9 @@
     "url": "https://twitter.com/iimmsyy"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "name": "YouTube",
+    "icon": "/images/icon/youtube.png",
+    "tip": "油管视频 ~",
+    "url": "https://www.youtube.com/@joyoussharon5103"
   }
 ]
